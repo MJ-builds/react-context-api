@@ -1,2 +1,2 @@
 # react-context-api
-Practice with React Context API
+Practicing with React Context API
